@@ -9,11 +9,6 @@ function Nav() {
       >
         Lemgruber
       </Link>
-      <nav className="flex items-center gap-6 text-sm uppercase leading-none tracking-[0] sm:text-base lg:gap-[50px] lg:text-[22px]">
-        <Link to="/words" className="hover:opacity-70">
-          words
-        </Link>
-      </nav>
     </header>
   )
 }
