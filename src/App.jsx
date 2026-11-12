@@ -54,7 +54,7 @@ function App() {
             <img
               src={portraitImage}
               alt="Portrait of lemgruber"
-              className="h-[460px] w-full object-cover object-[50%_20%] sm:h-[620px] md:h-[700px] lg:h-[708px]"
+              className="h-[460px] w-full object-cover object-[50%_25%] sm:h-[620px] md:h-[700px] lg:h-[708px] lg:object-center"
             />
           </div>
 
