@@ -19,7 +19,7 @@ function App() {
     <main className="min-h-screen bg-[#FFF9F2] text-[#383631]">
       <header className="mx-auto flex w-full max-w-[1440px] items-center justify-between px-5 py-6 sm:px-8 sm:py-8 lg:px-[56px] lg:py-[37px]">
         <span className="text-base font-extrabold uppercase leading-none tracking-[0] sm:text-lg lg:text-[22px]">
-          lemgruber
+          Lemgruber
         </span>
       </header>
 
@@ -53,7 +53,7 @@ function App() {
           <div className="mx-auto w-full max-w-[560px] md:order-3 md:col-span-2 md:max-w-none lg:order-2 lg:col-span-1 lg:max-w-[480px]">
             <img
               src={portraitImage}
-              alt="Portrait of lemgruber"
+              alt="Portrait of Lemgruber"
               className="h-[460px] w-full object-cover object-[50%_25%] sm:h-[620px] md:h-[700px] lg:h-[708px] lg:object-center"
             />
           </div>
