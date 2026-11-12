@@ -1,4 +1,4 @@
-const portraitImage = 'https://www.figma.com/api/mcp/asset/2c9a0527-2386-45f7-8076-89d541e9088b'
+import portraitImage from './assets/portrait.jpg'
 
 const atWorkStats = [
   '14 YEARS WORKING IN-HOUSE',
@@ -54,7 +54,7 @@ function App() {
             <img
               src={portraitImage}
               alt="Portrait of lemgruber"
-              className="h-[460px] w-full object-cover object-center sm:h-[620px] md:h-[700px] lg:h-[708px]"
+              className="h-[460px] w-full object-cover object-[50%_20%] sm:h-[620px] md:h-[700px] lg:h-[708px]"
             />
           </div>
 
